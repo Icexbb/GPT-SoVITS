@@ -12,3 +12,6 @@ SoVITS_weights
 TEMP
 
 
+venv
+.vscode
+.vs
